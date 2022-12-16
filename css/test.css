@@ -1,0 +1,27 @@
+body{
+  margin: 0;
+}
+.blue{
+  background-color: #47B5FF;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 200px;
+  top: 200px;
+}
+.yellow{
+  background-color: #FF8C32;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.red{
+  background-color: #EB1D36;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 100px;
+  top: 100px;
+}
